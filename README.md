@@ -4,7 +4,6 @@
 OCNRM(Optical Core Network Resource Manager) is a software which achieves Software Defined Networking in OTN/WDM network.
 ocnrm is work with ODENOS, PseudoManagementFunctions, RYU-OE(RYU OTN Extension) and control OTN/WDM network nodes which speaks OpenFlow OTN extension.
 
-==========================
 
  Software Installation
 --------------------------
