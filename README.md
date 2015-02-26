@@ -1,7 +1,8 @@
-# what's ocnrm
+# what's OCNRM
 "O3 orchestrator&amp;controller suite for optical network"
-ocnrm is a software which achieves Software Defined Optical Networking using ODENOS.
-Optical means OTN/WDM.
+---
+OCNRM(Optical Core Network Resource Manager) is a software which achieves Software Defined Networking in OTN/WDM network.
+ocnrm is work with ODENOS, PseudoManagementFunctions, RYU-OE(RYU OTN Extension) and control OTN/WDM network nodes which speaks OpenFlow OTN extension.
 
 ==========================
 
