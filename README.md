@@ -6,7 +6,9 @@ OCNRM works with ODENOS, PseudoMF(PseudoManagementFunctions) and RYU-OE(RYU OTN 
 
  Environment
 --------------------------
+
 OS：Ubuntu 12.04.3(x64)
+
 Memory: 1GB (without ODENOS)
 Middleware: Java 7 and later, Maven2
 ODENOS 1.0.0 is required
